@@ -1,4 +1,4 @@
-// Programa converte a temperatura de Fahrenheit para Celsius
+// Programa conversão temperatura de Fahrenheit para Celsius
 // Arquivo: ConversaoTemperatura.java
 
 package fundamentos;
@@ -22,12 +22,13 @@ public class ConversaoTemperatura {
 		final float FATOR = 5 / 9.0F,
 		        	AJUSTE = 32;
 		
+		// Menu exposição
 		System.out.print("************");
 		System.out.print(" Calculadora de Conversão ");
 		System.out.print("***********\n");
 		System.out.print("\t****  Fahrenheit ---> Celsius ****\n\n");
 		
-		
+		// Scanner para entrada de dados
 		Scanner teclado = new Scanner(System.in);
 		
 		System.out.println("Olá!");
@@ -44,8 +45,8 @@ public class ConversaoTemperatura {
 		System.out.print("***********\n");
 		System.out.print("\t****  *********** **********  ****\n\n");
 		
-		teclado.close();
+		teclado.close(); // final capitura da classe scanner
 
-	}
+	} // final método main
 
-}
+} // final da classe
