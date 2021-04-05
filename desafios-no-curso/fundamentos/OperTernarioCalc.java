@@ -51,8 +51,8 @@ public class OperTernarioCalc {
 		operacao = teclado.next();				// captura opção para cáĺculo
 		
 		/*
-		 * Optei por criar variáveis Double que fizessem a operação do cálculo, a fim de
-		 * criar variável String resultado para ter como incluir String "Opção Inválida"
+		 * Optei por criar variáveis Double para fazer a operação do cálculo e 
+		 * posteriormente aplicar o método.
 		 */
 		soma = num1 + num2;
 		subtracao = num1 - num2;
@@ -60,6 +60,9 @@ public class OperTernarioCalc {
 		divisao = num1 / num2;
 		modulo = num1 % num2;
 		
+		/* Criei a variável do tipo String resultado para ter como incluir
+		 * String "Opção Inválida"
+		 */
 		resultado = "1".equals(operacao) ? soma.toString() : "Opção Inválida";
 		resultado = "2".equals(operacao) ? subtracao.toString() : resultado;
 		resultado = "3".equals(operacao) ? multiplicacao.toString() : resultado;

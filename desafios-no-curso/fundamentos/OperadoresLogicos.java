@@ -13,8 +13,8 @@ public class OperadoresLogicos {
 		 * Imagine que você terá dois trabalhos na próxima semana e eles podem ou
 		 * não se confirmar. 
 		 * Você prometeu para sua família se os dois trabalhos derem certo comprará
-		 * uma TV 50' no final de semana e tomarão sorvete juntos.
-		 * Se apenas um dos trabalhos derem certo comprará uma TV 32' e também tomarão
+		 * uma TV 50" no final de semana e tomarão sorvete juntos.
+		 * Se apenas um dos trabalhos derem certo comprará uma TV 32" e também tomarão
 		 * sorvete juntos.
 		 * Não conseguindo nenhum dos trabalhos não vão tomar sorvete e nem comprar TV.
 		 */

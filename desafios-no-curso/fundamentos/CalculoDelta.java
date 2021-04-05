@@ -1,5 +1,5 @@
 // Programa para cálculo da equação do 2º grau
-// Arquivo: AreaDoTriangulo.java
+// Arquivo: CalculoDelta.java
 
 package fundamentos;
 
@@ -53,4 +53,4 @@ public class CalculoDelta {
 		
 	} // fim método main
 
-} // fim classe AreaDoTriangulo
+} // fim classe CalculoDelta

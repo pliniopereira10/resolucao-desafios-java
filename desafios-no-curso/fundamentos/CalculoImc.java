@@ -9,7 +9,7 @@ public class CalculoImc {
 
 	public static void main(String[] args) {
 		
-		// Fórmula para calculo é Imc = peso / altura * altura
+		// Fórmula para cálculo é Imc = peso / altura * altura
 		
 		// Variáveis
 		double imc,

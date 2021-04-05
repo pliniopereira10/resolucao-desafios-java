@@ -1,4 +1,4 @@
-// Programa calcula média 3 últimos sálarios
+// Programa calcula média 3 últimos salários
 // Arquivo: MediaSalarios.java
 
 package fundamentos;
@@ -10,14 +10,14 @@ public class MediaSalarios {
 	public static void main(String[] args) {
 		
 		/*
-		 * Por meio da classe Scanner capiturar strings recebendo os 3 últimos
+		 * Por meio da classe Scanner capturar strings recebendo os 3 últimos
 		 * salários de um funcionário dando a possibilidade dele digitar ponto(.)
 		 * ou vírgula(,), posteriormente calcular e dar resposta da média.
 		 * Convertendo uma string para valor numérico.
 		 */
 		
 		// Variáveis
-		// Por regra lembre variáveis no estilo camelCase comaça com letra minúscula 
+		// Por regra lembre variáveis no estilo camelCase começa com letra minúscula 
 		String salario1, // Primeiro salário string
 			   salario2, // Segundo salaŕio string
 			   salario3, // Terceiro salário string
