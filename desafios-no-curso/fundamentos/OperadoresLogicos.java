@@ -47,12 +47,13 @@ public class OperadoresLogicos {
 		tomarSorvete = trabalho1 || trabalho2;
 		
 		// Utiliza escaping (\") para colocar aspas duplas
-		// toString converte o Boolean para String a fim utilizar método replace
+		// toString converte o Boolean para String, a fim utilizar método replace
 		System.out.println("Vamos ao shopping comprar TV 50\"? " + comprarTv50.toString().
 				replace("true", "Sim").replace("false", "Não"));
 		System.out.println("Comprar TV 32\"? " + comprarTv32.toString().
 				replace("true", "Sim").replace("false", "Não"));
-		System.out.println("Vamos tomar sorvete? " + tomarSorvete.toString().
+		// Utilizando instrução Boolean.toString() posso transformar a variável em String
+		System.out.println("Vamos tomar sorvete? " + Boolean.toString(tomarSorvete).
 				replace("true", "Sim").replace("false", "Não"));
 				
 		teclado.close(); // fim classe scanner
