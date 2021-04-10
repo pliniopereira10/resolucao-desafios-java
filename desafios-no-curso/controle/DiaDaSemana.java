@@ -21,6 +21,7 @@ public class DiaDaSemana {
 			nome = teclado.next();                      // captura o nome 
 		
 			// Estrutura de condição utilizando função equalsIgnoreCase()
+			// Dois iguais "==" para comparação de Strings ocorre erro no código 
 			if(nome.equalsIgnoreCase("domingo")) {
 				System.out.println("1º dia da semana.");
 			} else if(nome.equalsIgnoreCase("segunda")) {
