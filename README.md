@@ -5,7 +5,7 @@
 ### :warning: Atenção dê sugestões para melhorar o código :warning:
 
 1. :small_red_triangle: [**Área do triângulo.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/AreaDoTriangulo.java)
-2. ###### :weight_lifting_man: [**Calculadora do IMC.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/CalculoImc.java)
+2. :weight_lifting_man: [**Calculadora do IMC.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/CalculoImc.java)
 2. :top: [**Potenciação quadrática e cúbica. Biblioteca Math.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/PotenciaAoQuadECubo.java)
 3. :thermometer: [**Conversão de Temperatura °Fahrenheit em °Celsius.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/ConversaoTemperatura.java)
 4. :briefcase: [**Média dos 3 últimos salários. Convertendo String para Número.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/MediaSalarios.java)
