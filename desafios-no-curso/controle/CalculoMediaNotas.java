@@ -1,5 +1,5 @@
 // Programa calcula a média de notas inseridas
-// CalculoMediaNotas.java
+// Arquivo: CalculoMediaNotas.java
 
 package controle;
 
