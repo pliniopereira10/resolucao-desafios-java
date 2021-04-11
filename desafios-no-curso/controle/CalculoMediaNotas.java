@@ -35,13 +35,16 @@ public class CalculoMediaNotas {
 		
 		System.out.println("Para visualizar o resultado e sair.");
 		System.out.println("Digite \"-1\".\n");
+		System.out.println("\t\t\t\t  ||");
+		System.out.println("****\t****\t****\t****\t****");
+		System.out.println("\t\t\t\t  ||");
 		
 		// Início da estrutura de repetição
 		while(nota != -1) {
 			
 			System.out.print("Informe uma nota: ");
 			nota = teclado.nextDouble();
-			
+						
 			// Início da condição
 			if(nota >= 0 && nota <=10) {
 				
@@ -51,9 +54,8 @@ public class CalculoMediaNotas {
 			} else if(nota > 10) {
 				
 				System.out.println("Por favor, \ninsira uma nota válida:");
-				//nota = teclado.nextDouble();
-				//quantidadeDeNotas++;
-				
+				System.out.println("\t\t\t\t  ||");
+								
 			} // fim da condição
 				
 		} // fim estrutura de repetição
