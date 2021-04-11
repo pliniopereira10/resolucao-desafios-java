@@ -14,5 +14,5 @@
 7. :arrow_up_small: [**Valor do delta, equação do 2º grau.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/CalculoDelta.java)
 7. :tv::ice_cream: [**Decisão de compra, utilizando operador ternário e lógico.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/OperLogicosETernarios.java)
 8. :1234: [**Calculadora de operações básicas, criado com operador ternário.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/OperTernarioCalc.java)
-9. :calendar: [**Dia da semana.Estrutura de repetição**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/DiaDaSemana.java)
+9. :calendar: [**Dia da semana.Estrutura de controle condição.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/DiaDaSemana.java)
 
