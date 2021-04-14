@@ -14,6 +14,7 @@
 7. :arrow_up_small: [**Valor do delta, equação do 2º grau.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/CalculoDelta.java)
 7. :tv::ice_cream: [**Decisão de compra, utilizando operador ternário e lógico.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/OperLogicosETernarios.java)
 8. :1234: [**Calculadora de operações básicas, criado com operador ternário.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/OperTernarioCalc.java)
-9. :calendar: [**Dia da semana.Estrutura de controle utilizando condição.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/DiaDaSemana.java)
-12. :memo: [**Cálculo média das notas.Utilizando estrutura de repetição.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/CalculoMediaNotas.java)
+9. :calendar: [**Dia da semana.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/DiaDaSemana.java)
+12. :memo: [**Cálculo média das notas.Utilizando estrutura de repetição While.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/CalculoMediaNotas.java)
+13. :mountain_bicyclist: [**Desenhando degraus .Utilizando Strings como condição na estrutura For.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/DesenhoDeDegraus.java)
 
