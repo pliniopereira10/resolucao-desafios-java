@@ -3,7 +3,7 @@
 
 package controle;
 
-import java.util.Scanner;
+import java.util.Scanner; // Programa utiliza Scanner
 
 public class DiaDaSemana {
 
