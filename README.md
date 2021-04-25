@@ -22,4 +22,5 @@
 16. :calendar: [**Verifica se o Ano é Bissexto.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/VerificaAnoBissexto.java)
 17. :five: [**Verifica se o número é primo.Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/NumeroPrimo.java)
 18. :game_die: [**Adivinhar número gerado no programa.Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/AdivinharNumero.java)
+19. :smile: [**Soma de números positivos.Estrutura de controle doWhile.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/SomaNumerosPositivos.java)
 
