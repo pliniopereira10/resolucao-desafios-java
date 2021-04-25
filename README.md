@@ -20,5 +20,6 @@
 14. :construction_worker: [**Calculadora.Utilizando estrutura de condição e escolha . While e Switch.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/Calculadora.java)
 15. :first_quarter_moon: [**Verifica se é par ou ímpar.Utilizando estrutura condicional**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/VerificaParImpar.java)
 16. :calendar: [**Verifica se o Ano é Bissexto.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/VerificaAnoBissexto.java)
-17. :game_die: [**Verifica se o número é primo.Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/NumeroPrimo.java)
+17. :five: [**Verifica se o número é primo.Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/NumeroPrimo.java)
+18. :game_die: [**Adivinhar número gerado no programa.Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/AdivinharNumero.java)
 
