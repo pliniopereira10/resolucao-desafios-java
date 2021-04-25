@@ -18,4 +18,5 @@
 12. :memo: [**Cálculo média das notas.Utilizando estrutura de repetição While.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/CalculoMediaNotas.java)
 13. :mountain_bicyclist: [**Desenhando degraus .Utilizando Strings como condição na estrutura For.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/DesenhoDeDegraus.java)
 14. :construction_worker: [**Calculadora.Utilizando estrutura de condição e escolha . While e Switch.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/Calculadora.java)
+15. :first_quarter_moon: [**Verifica se é par ou ímpar.Utilizando estrutura condicional**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/controle/VerificaParImpar.java)
 
