@@ -21,7 +21,7 @@
 ### :warning: Atenção dê sugestões para melhorar o código :warning:
 
 1. :incoming_envelope: [**Imprimindo uma mensagem.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/ImprimindoMensagem.java)
-2. :point_left: :point_right: [**Imprimindo o número sucessor e antecessor.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/ImpAntESuc.java)
+2. :point_left: :point_right: [**Imprimindo o número antecessor e sucessor.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/ImpAntESuc.java)
 3. :anger: [**Produto entre dois números inteiros.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/ProdutoEntreNumeros.java)
 4. :small_red_triangle: [**Área do triângulo.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/AreaDoTriangulo.java)
 5. :weight_lifting_man: [**Calculadora do IMC.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/desafios-no-curso/fundamentos/CalculoImc.java)

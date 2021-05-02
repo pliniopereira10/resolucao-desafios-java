@@ -30,6 +30,6 @@ public class ImpAntESuc {
 
 		teclado.close(); // fim classe Scanner
 
-	} // fim do métod main
+	} // fim do método main
 
 } // fim da classe ImpAntESuc
