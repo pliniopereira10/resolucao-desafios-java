@@ -6,3 +6,5 @@
 2. [**Classe da loja --- Atributos da loja**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto/Loja.java)
 3. [**Classe do programa -- Método main**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto/ProgramaTeste.java)
 
+:dart::point_left:  [**Tópico Principal**](https://github.com/pliniopereira10/resolucao-desafios-java)
+
