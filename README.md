@@ -49,35 +49,37 @@
 
 13. :1234: [**Cálculo expressão aritmética. Ordem precedência.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperadoresAritmeticos.java)
 
-14. :icecream::tv: [**Decisão de compras por meio operadores lógicos.Conversão Boolean para String.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperadoresLogicos.java)
+14. :zap: [**Cálculo valor da enegia consumida. Valores expressos em R$.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoValorEnergia.java)
 
-15. :arrow_up_small: [**Valor do delta, equação do 2º grau.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoDelta.java)
+15. :icecream::tv: [**Decisão de compras por meio operadores lógicos.Conversão Boolean para String.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperadoresLogicos.java)
 
-16. :tv::ice_cream: [**Decisão de compra, utilizando operador ternário e lógico.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperLogicosETernarios.java)
+16. :arrow_up_small: [**Valor do delta, equação do 2º grau.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoDelta.java)
 
-17. :1234: [**Calculadora de operações básicas, criado com operador ternário.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperTernarioCalc.java)
+17. :tv::ice_cream: [**Decisão de compra, utilizando operador ternário e lógico.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperLogicosETernarios.java)
 
-18. :calendar: [**Dia da semana.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DiaDaSemana.java)
+18. :1234: [**Calculadora de operações básicas, criado com operador ternário.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperTernarioCalc.java)
 
-19. :memo: [**Cálculo média das notas.Utilizando estrutura de repetição While.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CalculoMediaNotas.java)
+19. :calendar: [**Dia da semana.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DiaDaSemana.java)
 
-20. :mountain_bicyclist: [**Desenhando degraus .Utilizando Strings como condição na estrutura For.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DesenhoDeDegraus.java)
+20. :memo: [**Cálculo média das notas.Utilizando estrutura de repetição While.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CalculoMediaNotas.java)
 
-21. :construction_worker: [**Calculadora.Utilizando estrutura de condição e escolha . While e Switch.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Calculadora.java)
+21. :mountain_bicyclist: [**Desenhando degraus .Utilizando Strings como condição na estrutura For.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DesenhoDeDegraus.java)
 
-22. :first_quarter_moon: [**Verifica se é par ou ímpar.Utilizando estrutura condicional**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaParImpar.java)
+22. :construction_worker: [**Calculadora.Utilizando estrutura de condição e escolha . While e Switch.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Calculadora.java)
 
-23. :calendar: [**Verifica se o Ano é Bissexto.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaAnoBissexto.java)
+23. :first_quarter_moon: [**Verifica se é par ou ímpar.Utilizando estrutura condicional**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaParImpar.java)
 
-24. :five: [**Verifica se o número é primo.Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/NumeroPrimo.java)
+24. :calendar: [**Verifica se o Ano é Bissexto.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaAnoBissexto.java)
 
-25. :game_die: [**Adivinhar número gerado no programa.Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AdivinharNumero.java)
+25. :five: [**Verifica se o número é primo.Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/NumeroPrimo.java)
 
-26. :smile: [**Soma de números positivos.Estrutura de controle doWhile.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaNumerosPositivos.java)
+26. :game_die: [**Adivinhar número gerado no programa.Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AdivinharNumero.java)
 
-27. :arrow_upper_right: [**Impressão de maior valor digitado.Estrutura de controle For e confição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MaiorValor.java)
+27. :smile: [**Soma de números positivos.Estrutura de controle doWhile.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaNumerosPositivos.java)
+
+28. :arrow_upper_right: [**Impressão de maior valor digitado.Estrutura de controle For e confição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MaiorValor.java)
 
             Atividades com o código em linguagem orientada a objeto
 
-28. [**Gerar desconto em um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto)
+29. [**Gerar desconto em um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto)
 
