@@ -21,12 +21,12 @@ public class NumeroInvertido {
 		int unidade;		 // recebe a unidade do número
 		int numeroInvertido; // recebe o número invertido
 		
-		System.out.println("Digite número com 4 casas decimais \nM|C|D|U: "); // solicita um número centesimal
+		System.out.println("Digite número com 4 casas decimais \nM|C|D|U: "); // solicita um número
 		numero	= teclado.nextInt();						 // lê o número
 		
 		/* 
 		 * As operações abaixo extraem milésimo, centena, dezena e unidade do número inserido.
-		 * Lembrando que o Java em divisões de números inteiros o resultado será a parte inteira.
+		 * Lembrando que o Java, em divisões de números inteiros o resultado será a parte inteira.
 		 * Operações de módulo o resultato é o resto da divisão.
 		 */ 
 		milesimo = numero / 1000;

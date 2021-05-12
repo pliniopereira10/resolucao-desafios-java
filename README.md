@@ -27,7 +27,7 @@
 
 2. :point_left: :point_right: [**Imprimindo o número antecessor e sucessor.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ImpAntESuc.java)
 
-3. :four::three::two::one::arrow_left::one::two::three::four: [**Imprimindo um número invertido.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/NumeroInvertido.java)
+3. :four::three::two::one: :arrow_left: :one::two::three::four: [**Imprimindo um número invertido.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/NumeroInvertido.java)
 
 4. :anger: [**Produto entre dois números inteiros.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ProdutoEntreNumeros.java)
 

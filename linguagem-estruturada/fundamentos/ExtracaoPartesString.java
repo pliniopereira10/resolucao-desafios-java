@@ -28,14 +28,14 @@ public class ExtracaoPartesString {
 		// Método substring() extrai caracteres de acordo com a posição no array.
 		System.out.printf("Último caractere é \"%s\"%n", nome.substring(nome.length()-1));
 		
-		// Métdo substring(inicia no zero, termina uma posição antes da mencionada)
+		// Método substring(inicia no zero, termina uma posição antes da mencionada)
 		System.out.printf("Primeiro ao terceiro caractere é \"%s\"%n", nome.substring(0, 3));
 		
 		System.out.printf("Quarto caractere é \"%s\"%n", nome.charAt(3));
 		System.out.printf("Todos caracteres menos o primeiro é \"%s\"%n", nome.substring(1, nome.length()));
 		System.out.printf("Dois últimos caracteres é \"%s\"%n", nome.substring(nome.length()-2, nome.length()));
 
-		teclado.close(); // fim classe Scanner
+		teclado.close(); // fim da classe Scanner
 
 	} // fim do método main
 
