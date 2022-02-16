@@ -17,10 +17,10 @@
  :point_right: **Comando de saída** é o comando responsável por enviar um resultado, uma informação ao usuário. O valor de cada variável é buscado na memória e inserido em um dispositivo de saída.
 
  :point_right: **Comando de entrada** é o comando que permite que o usuário digite dados. O dado digitado é armazenado temporariamente em um registrador e, depois, copiado para posição da memória indicada no comando.
- ***
+***
 
  ### :warning: Atenção dê sugestões para melhorar o código :warning:               
- ***
+***
             Atividades com o código em linguagem estruturada
 
 **Fundamentos básicos**
@@ -65,31 +65,23 @@
 
  20. :1234: [**Calculadora de operações básicas, criado com operador ternário.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperTernarioCalc.java)
 
-    
+​    
 
 **Estruturas de controle e decisão**
 
- 21. :calendar: [**Dia da semana.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DiaDaSemana.java)
-
- 22. :memo: [**Cálculo média das notas.Utilizando estrutura de repetição While.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CalculoMediaNotas.java)
-
- 23. :mountain_bicyclist: [**Desenhando degraus .Utilizando Strings como condição na estrutura For.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DesenhoDeDegraus.java)
-
- 24. :construction_worker: [**Calculadora.Utilizando estrutura de condição e escolha . While e Switch.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Calculadora.java)
-
- 25. :first_quarter_moon: [**Verifica se é par ou ímpar.Utilizando estrutura condicional**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaParImpar.java)
-
- 26. :calendar: [**Verifica se o Ano é Bissexto.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaAnoBissexto.java)
-
- 27. :five: [**Verifica se o número é primo.Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/NumeroPrimo.java)
-
- 28. :game_die: [**Adivinhar número gerado no programa.Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AdivinharNumero.java)
-
- 29. :smile: [**Soma de números positivos.Estrutura de controle doWhile.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaNumerosPositivos.java)
-
+  21. :calendar: [**Dia da semana.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DiaDaSemana.java)
+  22. :nerd_face: [**Cálculo das raízes de uma equação 2º grau.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/FormulaBhaskara.java)
+  23. :memo: [**Cálculo média das notas.Utilizando estrutura de repetição While.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CalculoMediaNotas.java)
+  24. :mountain_bicyclist: [**Desenhando degraus .Utilizando Strings como condição na estrutura For.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DesenhoDeDegraus.java)
+  25. :construction_worker: [**Calculadora.Utilizando estrutura de condição e escolha . While e Switch.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Calculadora.java)
+  26. :first_quarter_moon: [**Verifica se é par ou ímpar.Utilizando estrutura condicional**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaParImpar.java)
+  27. :calendar: [**Verifica se o Ano é Bissexto.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaAnoBissexto.java)
+  28. :five: [**Verifica se o número é primo.Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/NumeroPrimo.java)
+  29. :game_die: [**Adivinhar número gerado no programa.Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AdivinharNumero.java)
+  30. :smile: [**Soma de números positivos.Estrutura de controle doWhile.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaNumerosPositivos.java)
  30. :arrow_upper_right: [**Impressão de maior valor digitado.Estrutura de controle For e confição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MaiorValor.java)
 
-    
+​    
 
     ```
         Atividades com o código em linguagem orientada a objeto
