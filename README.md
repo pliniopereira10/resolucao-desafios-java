@@ -82,7 +82,8 @@
   29. :game_die: [**Adivinhar número gerado no programa.Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AdivinharNumero.java)
   29. :man_teacher: [**Cálculo da média de um aluno.Estrutura de controle condicional If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Media3.java)
   30. :smile: [**Soma de números positivos.Estrutura de controle doWhile.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaNumerosPositivos.java)
- 30. :arrow_upper_right: [**Impressão de maior valor digitado.Estrutura de controle For e confição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MaiorValor.java)
+ 30. :arrow_upper_right: [**Impressão de maior valor digitado.Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MaiorValor.java)
+ 30. :wink: [**Impressão do tipo númerico, se nulo, par, impar, positivo ou negativo.Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/ParImpar.java)
 
 ​    
 
@@ -90,6 +91,6 @@
         Atividades com o código em linguagem orientada a objeto
     ```
 
-34. [**Gerar desconto em um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto)
+36. [**Gerar desconto em um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto)
 
    
