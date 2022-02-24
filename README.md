@@ -25,15 +25,15 @@
 
 **Fundamentos básicos**
 
- 1. :incoming_envelope: [**Imprimindo uma mensagem.**] https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ImprimindoMensagem.java)
+ 1. :incoming_envelope: [**Imprimindo uma mensagem.**]( https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ImprimindoMensagem.java)
 
  2. :point_left: :point_right: [**Imprimindo o número antecessor e sucessor.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ImpAntESuc.java)
 
  3. :four::three::two::one: :arrow_left: :one::two::three::four: [**Imprimindo um número invertido.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/NumeroInvertido.java)
 
- 4. :anger: [**Produto entre dois números inteiros.**] https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ProdutoEntreNumeros.java)
+ 4. :anger: [**Produto entre dois números inteiros.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ProdutoEntreNumeros.java)
 
- 5. :pizza: [**Cálculo da terça parte de um número.**] https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/TercaParteNumero.java)
+ 5. :pizza: [**Cálculo da terça parte de um número.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/TercaParteNumero.java)
 
  6. :hocho: [**Informando os componentes da divisão.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/Divisao.java)
 
@@ -59,7 +59,7 @@
 
  17. :icecream::tv: [**Decisão de compras por meio operadores lógicos.Conversão Boolean para String.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperadoresLogicos.java)
 
- 18. :arrow_up_small: [**Valor do delta, equação do 2º grau.**] https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoDelta.java)
+ 18. :arrow_up_small: [**Valor do delta, equação do 2º grau.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoDelta.java)
 
  19. :tv::ice_cream: [**Decisão de compra, utilizando operador ternário e lógico.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperLogicosETernarios.java)
 
