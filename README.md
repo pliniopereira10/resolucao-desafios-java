@@ -85,7 +85,7 @@
   34. :arrow_upper_right: [**Impressão de maior valor digitado.Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MaiorValor.java)
   35. :wink: [**Impressão do tipo númerico, se nulo, par, impar, positivo ou negativo.Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/ParImpar.java)
   36. :man_scientist: [**Calcula quantidade e percentual de experimentos realizados.Estrutura de controle For e condição If e Else If.** ](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Experiencias.java)
-  36. :tennis: [**Soma de valores ímpares consecutivos. Utiliza estrutura de controle For , While e condição If Else.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaImparesConsecutivos.java)
+  37. :tennis: [**Soma de valores ímpares consecutivos. Utiliza estrutura de controle For , While e condição If Else.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaImparesConsecutivos.java)
 
 ​    
 
@@ -93,6 +93,7 @@
 
 
 
-37. [**Gerar desconto em um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto)
+38. [**Gerar desconto em um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto)
+39. [**Adicionar e remover um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/adicionarRemoverProduto 	)
 
    
