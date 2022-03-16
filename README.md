@@ -86,6 +86,7 @@
   35. :wink: [**Impressão do tipo númerico, se nulo, par, impar, positivo ou negativo.Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/ParImpar.java)
   36. :man_scientist: [**Calcula quantidade e percentual de experimentos realizados.Estrutura de controle For e condição If e Else If.** ](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Experiencias.java)
   37. :tennis: [**Soma de valores ímpares consecutivos. Utiliza estrutura de controle For , While e condição If Else.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaImparesConsecutivos.java)
+  37. :earth_americas: [**Compara crescimento populacional de duas cidades. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CrescimentoPopulacional.java)
 
 ​    
 
