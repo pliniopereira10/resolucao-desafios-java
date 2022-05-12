@@ -2,4 +2,4 @@
 
 ***
 
-![Diagram UML Worker Salary](/media/pliniopsp/Compartilhamento/WorkspaceGeral/GitHub/resolucao-desafios-java/linguagem-orientada-objeto-uml/ImagensDiagramaUml/DiagramUMLWorkerSal.png)
+![Diagram UML Worker Salary](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto-uml/ImagensDiagramaUml/diagramUMLWorkerSal.png)
