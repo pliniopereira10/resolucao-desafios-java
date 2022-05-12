@@ -104,4 +104,4 @@
 
 
 
-41. 
+41. [**Calculation of the sum of the salary of an employee based on the contracts worked.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto-uml/umlWorkerSalary )
