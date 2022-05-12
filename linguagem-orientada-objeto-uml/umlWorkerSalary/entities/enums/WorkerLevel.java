@@ -1,4 +1,4 @@
-// Creation of the class WorkerLevel in order to identify the levels of employees
+//	Creation of the class WorkerLevel in order to identify the levels of employees
 
 package umlWorkerSalary.entities.enums;
 
