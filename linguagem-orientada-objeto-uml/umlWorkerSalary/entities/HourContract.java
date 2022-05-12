@@ -1,4 +1,6 @@
-//	Creation of the class HourContract with attributes and methods to calculate the salary to receive 	 
+/*	Creation of the class HourContract with attributes and methods to calculate the salary 
+ * 	to be received from a contract 	 
+ */
 
 package umlWorkerSalary.entities;
 
