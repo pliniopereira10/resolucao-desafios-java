@@ -89,7 +89,7 @@
  38. :earth_americas: [**Compara crescimento populacional de duas cidades. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CrescimentoPopulacional.java)
  39. :racing_car: [**Printing FizzBuzz for values multiples of 3 and 5. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/FizzBuzz.java)
 
-   
+
 
         Atividades com o código em linguagem orientada a objeto
 
