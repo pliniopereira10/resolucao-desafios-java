@@ -25,70 +25,92 @@
 
 **Fundamentos básicos**
 
- 1. :incoming_envelope: [**Imprimindo uma mensagem.**]( https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ImprimindoMensagem.java)
+  1. :incoming_envelope: [**Imprimindo uma mensagem.**]( https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ImprimindoMensagem.java)
 
- 2. :point_left: :point_right: [**Imprimindo o número antecessor e sucessor.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ImpAntESuc.java)
+  2. :point_left: :point_right: [**Imprimindo o número antecessor e sucessor.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ImpAntESuc.java)
 
- 3. :four::three::two::one: :arrow_left: :one::two::three::four: [**Imprimindo um número invertido.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/NumeroInvertido.java)
+  3. :four::three::two::one: :arrow_left: :one::two::three::four: [**Imprimindo um número invertido.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/NumeroInvertido.java)
 
- 4. :anger: [**Produto entre dois números inteiros.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ProdutoEntreNumeros.java)
+  4. :anger: [**Produto entre dois números inteiros.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ProdutoEntreNumeros.java)
 
- 5. :pizza: [**Cálculo da terça parte de um número.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/TercaParteNumero.java)
+  5. :pizza: [**Cálculo da terça parte de um número.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/TercaParteNumero.java)
 
- 6. :hocho: [**Informando os componentes da divisão.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/Divisao.java)
+  6. :hocho: [**Informando os componentes da divisão.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/Divisao.java)
 
- 7. :family: [**Cálculo da média ponderada.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/MediaPonderada.java)
+  7. :family: [**Cálculo da média ponderada.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/MediaPonderada.java)
 
- 8. :woman_teacher: [**Cálculo  salário do Professor descontado INSS.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/SalarioLiquidoProfessor.java)
+  8. :woman_teacher: [**Cálculo  salário do Professor descontado INSS.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/SalarioLiquidoProfessor.java)
 
- 9. :small_red_triangle: [**Área do triângulo.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/AreaDoTriangulo.java)
+  9. :small_red_triangle: [**Área do triângulo.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/AreaDoTriangulo.java)
 
- 10. :weight_lifting_man: [**Calculadora do IMC.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoImc.java)
+  10. :weight_lifting_man: [**Calculadora do IMC.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoImc.java)
 
- 11. :top: [**Potenciação quadrática e cúbica. Biblioteca Math.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/PotenciaAoQuadECubo.java)
+  11. :top: [**Potenciação quadrática e cúbica. Biblioteca Math.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/PotenciaAoQuadECubo.java)
 
- 12. :thermometer: [**Conversão de Temperatura °Fahrenheit em °Celsius.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ConversaoTemperatura.java)
+  12. :thermometer: [**Conversão de Temperatura °Fahrenheit em °Celsius.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ConversaoTemperatura.java)
 
- 13. :briefcase: [**Média dos 3 últimos salários. Convertendo String para Número.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/MediaSalarios.java)
+  13. :briefcase: [**Média dos 3 últimos salários. Convertendo String para Número.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/MediaSalarios.java)
 
- 14. :gift:  [**Extração de caracteres de uma String.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ExtracaoPartesString.java)
+  14. :gift:  [**Extração de caracteres de uma String.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ExtracaoPartesString.java)
 
- 15. :1234: [**Cálculo expressão aritmética. Ordem precedência.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperadoresAritmeticos.java)
+  15. :1234: [**Cálculo expressão aritmética. Ordem precedência.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperadoresAritmeticos.java)
 
- 16. :zap: [**Cálculo valor da energia consumida. Valores expressos em R$.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoValorEnergia.java)
+  16. :zap: [**Cálculo valor da energia consumida. Valores expressos em R$.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoValorEnergia.java)
 
- 17. :icecream::tv: [**Decisão de compras por meio operadores lógicos.Conversão Boolean para String.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperadoresLogicos.java)
+  17. :icecream::tv: [**Decisão de compras por meio operadores lógicos.Conversão Boolean para String.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperadoresLogicos.java)
 
- 18. :arrow_up_small: [**Valor do delta, equação do 2º grau.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoDelta.java)
+  18. :arrow_up_small: [**Valor do delta, equação do 2º grau.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/CalculoDelta.java)
 
- 19. :tv::ice_cream: [**Decisão de compra, utilizando operador ternário e lógico.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperLogicosETernarios.java)
+  19. :tv::ice_cream: [**Decisão de compra, utilizando operador ternário e lógico.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperLogicosETernarios.java)
 
- 20. :1234: [**Calculadora de operações básicas, criado com operador ternário.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperTernarioCalc.java)
+  20. :1234: [**Calculadora de operações básicas, criado com operador ternário.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/OperTernarioCalc.java)
+
+  21. :bank: [**Conta Banco, atividade proposta Trilha Java Básico.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/fundamentos/ContaTerminal.java)
 
 ​    
 
 **Estruturas de controle e decisão**
 
-  21. :first_quarter_moon: [**Verifica se é par ou ímpar.Utilizando estrutura condicional**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaParImpar.java)
-  22. :calendar: [**Dia da semana.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DiaDaSemana.java)
-  23. :calendar: [**Verifica se o Ano é Bissexto.Estrutura de controle condicional.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaAnoBissexto.java)
-  24. :nerd_face: [**Cálculo das raízes de uma equação 2º grau.Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/FormulaBhaskara.java)
-  25. :office: [ **Aumento salarial.Estrutura de controle utilizando condição If e Else if**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AumentoSalarial.java)
-  26. :man_teacher: [**Cálculo da média de um aluno.Estrutura de controle condicional If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Media3.java)
-  27. :pizza: [**Menu de Lanche.Estrutura de controle utilizando condição Switch-case.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Lanche.java)
-  28. :memo: [**Cálculo média das notas.Utilizando estrutura de repetição While.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CalculoMediaNotas.java)
-  29. :smile: [**Soma de números positivos.Estrutura de controle doWhile.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaNumerosPositivos.java)
-  30. :construction_worker: [**Calculadora.Utilizando estrutura de condição e escolha . While e Switch.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Calculadora.java)
-  31. :mountain_bicyclist: [**Desenhando degraus .Utilizando Strings como condição na estrutura For.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DesenhoDeDegraus.java)
-  32. :five: [**Verifica se o número é primo.Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/NumeroPrimo.java)
-  33. :game_die: [**Adivinhar número gerado no programa.Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AdivinharNumero.java)
-  34. :arrow_upper_right: [**Impressão de maior valor digitado.Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MaiorValor.java)
-  35. :wink: [**Impressão do tipo númerico, se nulo, par, impar, positivo ou negativo.Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/ParImpar.java)
-  36. :man_scientist: [**Calcula quantidade e percentual de experimentos realizados.Estrutura de controle For e condição If e Else If.** ](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Experiencias.java)
-  37. :tennis: [**Soma de valores ímpares consecutivos. Utiliza estrutura de controle For , While e condição If Else.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaImparesConsecutivos.java)
-  38. :earth_americas: [**Compara crescimento populacional de duas cidades. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CrescimentoPopulacional.java)
-  39. :racing_car: [**Printing FizzBuzz for values multiples of 3 and 5. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/FizzBuzz.java)
-  40. :convenience_store:[**Soma valores de produtos de um carrinho de compras. Utiliza lista para adicionar e remover produtos**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CarrinhoCompras.java)
+22. :first_quarter_moon: [**Verifica se é par ou ímpar. Utilizando estrutura condicional**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaParImpar.java)
+
+21. :calendar: [**Dia da semana. Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DiaDaSemana.java)
+
+22. :calendar: [**Verifica se o Ano é Bissexto. Estrutura de controle condicional.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaAnoBissexto.java)
+
+23. :nerd_face: [**Cálculo das raízes de uma equação 2º grau. Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/FormulaBhaskara.java)
+
+24. :office: [ **Aumento salarial. Estrutura de controle utilizando condição If e Else if**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AumentoSalarial.java)
+
+25. :man_teacher: [**Cálculo da média de um aluno. Estrutura de controle condicional If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Media3.java)
+
+26. :pizza: [**Menu de Lanche. Estrutura de controle utilizando condição Switch-case.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Lanche.java)
+
+27. :memo: [**Cálculo média das notas. Utilizando estrutura de repetição While.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CalculoMediaNotas.java)
+
+28. :smile: [**Soma de números positivos. Estrutura de controle doWhile.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaNumerosPositivos.java)
+
+29. :construction_worker: [**Calculadora. Utilizando estrutura de condição e escolha While e Switch.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Calculadora.java)
+
+30. :mountain_bicyclist: [**Desenhando degraus. Utilizando Strings como condição na estrutura For.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DesenhoDeDegraus.java)
+
+31. :five: [**Verifica se o número é primo. Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/NumeroPrimo.java)
+
+32. :game_die: [**Adivinhar número gerado no programa. Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AdivinharNumero.java)
+
+33. :arrow_upper_right: [**Impressão de maior valor digitado. Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MaiorValor.java)
+
+34. :wink: [**Impressão do tipo númerico, se nulo, par, impar, positivo ou negativo. Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/ParImpar.java)
+
+35. :man_scientist: [**Calcula quantidade e percentual de experimentos realizados. Estrutura de controle For e condição If e Else If.** ](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Experiencias.java)
+
+36. :tennis: [**Soma de valores ímpares consecutivos. Utiliza estrutura de controle For , While e condição If Else.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaImparesConsecutivos.java)
+
+37. :earth_americas: [**Compara crescimento populacional de duas cidades. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CrescimentoPopulacional.java)
+
+38. :racing_car: [**Printing FizzBuzz for values multiples of 3 and 5. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/FizzBuzz.java)
+
+39. :convenience_store:[**Soma valores de produtos de um carrinho de compras. Utiliza lista para adicionar e remover produtos**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CarrinhoCompras.java)
+
 
 
 
@@ -96,10 +118,11 @@
 
 
 
-41. [**Gerar desconto em um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto)
-42. [**Adicionar e remover um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/adicionarRemoverProduto )
-43. [**Abertura de conta. Depósito e saque.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/aberturaContaSaqueDeposito )
-44. [**Application charges annual tax.Uses class and abstract method concepts.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto/collectAnnualTax )
+42. [**Gerar desconto em um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto)
+
+41. [**Adicionar e remover um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/adicionarRemoverProduto )
+42. [**Abertura de conta. Depósito e saque.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/aberturaContaSaqueDeposito )
+43. [**Application charges annual tax.Uses class and abstract method concepts.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto/collectAnnualTax )
 
 
 
