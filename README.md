@@ -113,6 +113,8 @@
 
 42. :collision: [**Calcula quantidade de meteoritos em uma determinada área.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Meteoro.java)
 
+43. :black_joker: [**Informa o vencendo do jogo de bater figurinhas.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Bafo.java)
+
 
 
 
