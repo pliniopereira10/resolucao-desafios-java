@@ -73,43 +73,45 @@
 
 22. :first_quarter_moon: [**Verifica se é par ou ímpar. Utilizando estrutura condicional**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaParImpar.java)
 
-21. :calendar: [**Dia da semana. Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DiaDaSemana.java)
+23. :calendar: [**Dia da semana. Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DiaDaSemana.java)
 
-22. :calendar: [**Verifica se o Ano é Bissexto. Estrutura de controle condicional.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaAnoBissexto.java)
+24. :calendar: [**Verifica se o Ano é Bissexto. Estrutura de controle condicional.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/VerificaAnoBissexto.java)
 
-23. :nerd_face: [**Cálculo das raízes de uma equação 2º grau. Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/FormulaBhaskara.java)
+25. :nerd_face: [**Cálculo das raízes de uma equação 2º grau. Estrutura de controle utilizando condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/FormulaBhaskara.java)
 
-24. :office: [ **Aumento salarial. Estrutura de controle utilizando condição If e Else if**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AumentoSalarial.java)
+26. :office: [ **Aumento salarial. Estrutura de controle utilizando condição If e Else if**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AumentoSalarial.java)
 
-25. :man_teacher: [**Cálculo da média de um aluno. Estrutura de controle condicional If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Media3.java)
+27. :man_teacher: [**Cálculo da média de um aluno. Estrutura de controle condicional If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Media3.java)
 
-26. :pizza: [**Menu de Lanche. Estrutura de controle utilizando condição Switch-case.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Lanche.java)
+28. :pizza: [**Menu de Lanche. Estrutura de controle utilizando condição Switch-case.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Lanche.java)
 
-27. :memo: [**Cálculo média das notas. Utilizando estrutura de repetição While.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CalculoMediaNotas.java)
+29. :memo: [**Cálculo média das notas. Utilizando estrutura de repetição While.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CalculoMediaNotas.java)
 
-28. :smile: [**Soma de números positivos. Estrutura de controle doWhile.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaNumerosPositivos.java)
+30. :smile: [**Soma de números positivos. Estrutura de controle doWhile.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaNumerosPositivos.java)
 
-29. :construction_worker: [**Calculadora. Utilizando estrutura de condição e escolha While e Switch.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Calculadora.java)
+31. :construction_worker: [**Calculadora. Utilizando estrutura de condição e escolha While e Switch.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Calculadora.java)
 
-30. :mountain_bicyclist: [**Desenhando degraus. Utilizando Strings como condição na estrutura For.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DesenhoDeDegraus.java)
+32. :mountain_bicyclist: [**Desenhando degraus. Utilizando Strings como condição na estrutura For.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/DesenhoDeDegraus.java)
 
-31. :five: [**Verifica se o número é primo. Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/NumeroPrimo.java)
+33. :five: [**Verifica se o número é primo. Estrutura de controle For condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/NumeroPrimo.java)
 
-32. :game_die: [**Adivinhar número gerado no programa. Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AdivinharNumero.java)
+34. :game_die: [**Adivinhar número gerado no programa. Estrutura de controle For condição If e IfElse.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/AdivinharNumero.java)
 
-33. :arrow_upper_right: [**Impressão de maior valor digitado. Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MaiorValor.java)
+35. :arrow_upper_right: [**Impressão de maior valor digitado. Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MaiorValor.java)
 
-34. :wink: [**Impressão do tipo númerico, se nulo, par, impar, positivo ou negativo. Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/ParImpar.java)
+36. :wink: [**Impressão do tipo númerico, se nulo, par, impar, positivo ou negativo. Estrutura de controle For e condição If.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/ParImpar.java)
 
-35. :man_scientist: [**Calcula quantidade e percentual de experimentos realizados. Estrutura de controle For e condição If e Else If.** ](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Experiencias.java)
+37. :man_scientist: [**Calcula quantidade e percentual de experimentos realizados. Estrutura de controle For e condição If e Else If.** ](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Experiencias.java)
 
-36. :tennis: [**Soma de valores ímpares consecutivos. Utiliza estrutura de controle For , While e condição If Else.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaImparesConsecutivos.java)
+38. :tennis: [**Soma de valores ímpares consecutivos. Utiliza estrutura de controle For , While e condição If Else.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/SomaImparesConsecutivos.java)
 
-37. :earth_americas: [**Compara crescimento populacional de duas cidades. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CrescimentoPopulacional.java)
+39. :earth_americas: [**Compara crescimento populacional de duas cidades. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CrescimentoPopulacional.java)
 
-38. :racing_car: [**Printing FizzBuzz for values multiples of 3 and 5. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/FizzBuzz.java)
+40. :racing_car: [**Printing FizzBuzz for values multiples of 3 and 5. Utiliza estruturas de controle.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/FizzBuzz.java)
 
-39. :convenience_store:[**Soma valores de produtos de um carrinho de compras. Utiliza lista para adicionar e remover produtos**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CarrinhoCompras.java)
+41. :convenience_store:[**Soma valores de produtos de um carrinho de compras. Utiliza lista para adicionar e remover produtos**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/CarrinhoCompras.java)
+
+42. :collision: [**Calcula quantidade de meteoritos em uma determinada área.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Meteoro.java)
 
 
 
