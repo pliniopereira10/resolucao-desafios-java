@@ -115,6 +115,8 @@
 
 43. :black_joker: [**Informa o vencendo do jogo de bater figurinhas.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Bafo.java)
 
+44. :arrow_backward: [**Exibe menor valor e sua posição no vetor.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/MenorEPosicao.java)
+
 
 
 
