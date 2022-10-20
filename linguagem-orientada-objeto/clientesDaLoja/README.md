@@ -2,12 +2,12 @@
 
 ***
 
-1. **Pacote das entidades**
-   - [**Classe genérica e abstrata Customer**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/clientesDaLoja/models/Customer.java)
-   - [**Subclasse SpecialCustomer**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/clientesDaLoja/models/SpecialCustomer.java)
+1. **Repositorie Package**
+   - (**Inteface Customer**)[https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/clientesDaLoja/repositories/Customer.java]
+2. **Entitties Package**
+   - [**Superclasse SpecialCustomer**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/clientesDaLoja/models/SpecialCustomer.java)
    - [**Subclasse VipCustomer**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/clientesDaLoja/models/VipCustomer.java)
-
-2. **Package do applicativo --- Method main**
+3. **Application Package --- Method main**
    - [**AppStorePI**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/clientesDaLoja/application/AppStorePI.java)
 
 :dart::point_left:  [**Tópico Principal**](https://github.com/pliniopereira10/resolucao-desafios-java)
