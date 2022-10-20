@@ -10,7 +10,7 @@ public class VipCustomer extends SpecialCustomer {
 
 	public VipCustomer(String name, String email, Double credit, Double extraCredit) {
 		super(name, email, credit);
-		this.extraCredit = extraCredit;
+		this.setExtraCredit(extraCredit);
 	}
 
 	public Double getExtraCredit() {
@@ -22,23 +22,20 @@ public class VipCustomer extends SpecialCustomer {
 	}
 
 	@Override
-	public Boolean purchase(double valor) {
-		if (this.extraCredit + super.getCredit() < valor) {
+	public boolean purchase(double debit) {
+		if (debit > super.getCredit() + this.extraCredit) {
 			return false;
 		} else {
-			super.setCreditDecrease(valor);
+			super.setCreditDecrease(debit);
 			return true;
 		}
 	}
 
 	@Override
-	public void message() {
-		System.out.println("Cliente Vip: " + toString());
-	}
-
-	@Override
 	public String toString() {
-		return super.toString() + String.format("[Credito Extra = %.2f]", extraCredit);
+		return "VipCustomer [name=" + super.getName() + ", email=" + super.getEmail()
+				+ String.format(", credit= %.2f]", super.getCredit())
+				+ String.format("[extraCredit= %.2f]", this.extraCredit);
 	}
 
 }

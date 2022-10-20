@@ -1,54 +1,69 @@
 package clientesDaLoja.models;
 
-public class SpecialCustomer extends Customer {
-	
+import clientesDaLoja.repositories.Customer;
+
+public class SpecialCustomer implements Customer {
+
+	private String name;
+	private String email;
 	private Double credit;
-	
+
 	public SpecialCustomer() {
-		
+
 	}
-	
+
 	public SpecialCustomer(String name, String email, Double credit) {
-		super(name, email);
+		this.name = name;
+		this.email = email;
 		this.credit = credit;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
 	}
 
 	public Double getCredit() {
 		return credit;
 	}
 
-	public void setCreditIncrease(double valor) {
-		this.credit += valor;
+	public void setCreditIncrease(Double credit) {
+		this.credit += credit;
 	}
 
-	public void setCreditDecrease(double valor) {
-		this.credit -= valor;
+	public void setCreditDecrease(Double debit) {
+		this.credit -= debit;
 	}
 
 	@Override
-	public Boolean purchase(double valor) {
-		if (this.credit < valor) {
+	public boolean purchase(double debit) {
+		if (debit > this.credit) {
 			return false;
 		} else {
-			setCreditDecrease(valor);
+			setCreditDecrease(debit);
 			return true;
 		}
 	}
 
 	@Override
-	public void payOff(double valor) {
-		setCreditIncrease(valor);
-	}
-
-	@Override
-	public void message() {
-		System.out.println("Cliente Especial: " + toString());
+	public void payOff(double credit) {
+		setCreditIncrease(credit);
 	}
 
 	@Override
 	public String toString() {
-		return super.toString() + String.format("[Credito = %.2f]",credit);
+		return "SpecialCustomer [name= " + name + ", email= " + email + ", " + String.format("credit= %.2f]", credit);
 	}
-	
-	
+
 }
