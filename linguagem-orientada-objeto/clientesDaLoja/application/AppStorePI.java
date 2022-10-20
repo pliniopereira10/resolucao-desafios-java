@@ -12,7 +12,7 @@
  * 
  * @author plinio.pereira10@gmail.com
  * @version 2.0.0
- * @since 7/10/2022
+ * @since 19/10/2022
  */
 
 package clientesDaLoja.application;
