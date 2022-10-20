@@ -3,7 +3,7 @@
 ***
 
 1. **Repositorie Package**
-   - [**Inteface Customer**][https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/clientesDaLoja/repositories/Customer.java]
+   - [**Inteface Customer**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/clientesDaLoja/repositories/Customer.java)
 2. **Entitties Package**
    - [**Superclasse SpecialCustomer**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/clientesDaLoja/models/SpecialCustomer.java)
    - [**Subclasse VipCustomer**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/clientesDaLoja/models/VipCustomer.java)
