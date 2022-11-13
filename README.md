@@ -119,6 +119,8 @@
 
 45. :white_square_button: [**Quadrado Mistíco.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/QuadradoMistico.java)
 
+46.  :page_facing_up: [**Palindrome. Programa verifica simetria de palavras e números**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-estruturada/controle/Palindrome.java)
+
 
 
 
