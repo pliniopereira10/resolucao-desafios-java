@@ -1,59 +1,59 @@
-package adicionarRemoverProduto.aplicacao;
+package application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import adicionarRemoverProduto.entidade.Produto;
+import entities.Product;
 
 public class Programa {
+    public static void main(String[] args) {
 
-	public static void main(String[] args) {
-		
-		Locale.setDefault(Locale.US);
-		
-		Scanner input = new Scanner(System.in);
-		
-			Produto produto;
-			int quantity;
-			
-			produto = new Produto();
-			
-			// Leitura de dados
-			System.out.println("Enter product data:");
-			System.out.print("Name: ");
-			produto.name = input.nextLine();
-			System.out.print("Price: ");
-			produto.price = input.nextDouble();
-			System.out.print("Quantity in stock: ");
-			produto.quantity = input.nextInt();
-			
-			// Exibição de dados após leitura
-			System.out.println();
-			System.out.println("Produc data:" + produto);
-			
-			// Adição de produtos
-			System.out.println();
-			System.out.print("Enter the number of products to be added in stock: ");
-			quantity = input.nextInt();
-			produto.AddProducts(quantity);
-			
-			// Exibição após produto adicionado
-			System.out.println();
-			System.out.println("Update data:" + produto);
-			
-			// Remoção de produtos
-			System.out.println();
-			System.out.print("Enter the number of products to be removed in stock: ");
-			quantity = input.nextInt();
-			produto.RemoveProducts(quantity);
-			
-			// Exibição após produtos removidos
-			System.out.println();
-			System.out.println("Update data:" + produto);
-		
-		input.close();
+        Scanner input;
+        Product product;
 
-	}
+        Locale.setDefault(Locale.US);
+        input = new Scanner(System.in);
+        product = new Product();
 
+        try {
+            System.out.println("Enter product data:");
+            System.out.print("Name: ");
+            product.setName(input.nextLine());
+            System.out.print("Price: ");
+            product.setPrice(input.nextDouble());
+            System.out.print("Quantity in stock: ");
+            product.addProducts(input.nextInt());
+
+            System.out.println();
+
+            System.out.print("Product data: ");
+            System.out.println(product);
+
+            System.out.println();
+
+            System.out.print("Enter the number of products to be added in stock: ");
+            product.addProducts(input.nextInt());
+
+            System.out.println();
+
+            System.out.print("Update data: ");
+            System.out.println(product);
+
+            System.out.println();
+
+            System.out.print("Enter the number of products to be removed from stock: ");
+            product.removeProducts(input.nextInt());
+
+            System.out.print("Update data: ");
+            System.out.println(product);
+
+            System.out.println();
+
+        } catch (IllegalArgumentException e) {
+            System.err.println(e.getMessage());
+        }
+
+        input.close();
+
+    }
 }
-
