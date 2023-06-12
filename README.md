@@ -125,11 +125,18 @@
   46. [**Gerar desconto em um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto)
 
   47. [**Adicionar e remover um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/adicionarRemoverProduto )
+
   48. [**Abertura de conta. Depósito e saque.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/aberturaContaSaqueDeposito )
+
   49. [**Application charges annual tax.Uses class and abstract method concepts.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto/collectAnnualTax )
+
   50. [**Clientes da Loja P&I. Modelo pré-pago de compra e crédito extra para clientes Vip.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto/clientesDaLoja)
+
+  51. [**Controle de reserva de um Hotel.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto/reservaHotel)
+
 
 ##### Atividades com o código em linguagem orientada a objeto baseado diagrama UML
 
-  51. [**Calculation of the sum of the salary of an employee based on the contracts worked.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto-uml/umlWorkerSalary )
+  52. [**Calculation of the sum of the salary of an employee based on the contracts worked.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto-uml/umlWorkerSalary )
+  
   52. [**Program receives and displays data on new, used and imported products.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto-uml/umlPriceProduct)
