@@ -1,4 +1,4 @@
-package entities;
+package adicionarRemoverProduto.entities;
 
 public class Product {
 

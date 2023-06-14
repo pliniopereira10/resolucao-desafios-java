@@ -124,7 +124,7 @@
 
   46. [**Gerar desconto em um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/GeradorDesconto)
 
-  47. [**Adicionar e remover um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/adicionarRemoverProduto )
+  47. [**Adicionar e remover um produto.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/adicionarRemoverProduto)
 
   48. [**Abertura de conta. Depósito e saque.**](https://github.com/pliniopereira10/resolucao-desafios-java/blob/main/linguagem-orientada-objeto/aberturaContaSaqueDeposito )
 
@@ -133,7 +133,6 @@
   50. [**Clientes da Loja P&I. Modelo pré-pago de compra e crédito extra para clientes Vip.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto/clientesDaLoja)
 
   51. [**Controle de reserva de um Hotel.**](https://github.com/pliniopereira10/resolucao-desafios-java/tree/main/linguagem-orientada-objeto/reservaHotel)
-
 
 ##### Atividades com o código em linguagem orientada a objeto baseado diagrama UML
 

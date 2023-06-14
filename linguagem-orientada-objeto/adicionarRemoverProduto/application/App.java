@@ -1,11 +1,11 @@
-package application;
+package adicionarRemoverProduto.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Product;
+import adicionarRemoverProduto.entities.Product;
 
-public class Programa {
+public class App {
     public static void main(String[] args) {
 
         Scanner input;
